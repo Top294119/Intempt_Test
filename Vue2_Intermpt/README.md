@@ -1,4 +1,4 @@
-# Vue.js CRUD App with Vue Router & Axios
+# Vue2 Intempt Test Project
 
 ## Project setup
 ```
